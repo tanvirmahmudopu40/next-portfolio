@@ -62,7 +62,7 @@ export default function Home() {
             <div>
               <h3 className="text-2xl font-bold mb-4">Hello, I am Md Tanvir Mahmud</h3>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                I'm a passionate Full Stack Developer with expertise in React, Next.js, and TypeScript.
+                I am a passionate Full Stack Developer with expertise in React, Next.js, and TypeScript.
                 I specialize in building beautiful, functional websites and applications.
               </p>
               <div className="grid grid-cols-2 gap-4 mb-8">
